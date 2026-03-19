@@ -1,0 +1,37 @@
+body {
+  font-family: Arial, sans-serif;
+  background: linear-gradient(to right, #74ebd5, #acb6e5);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.container {
+  text-align: center;
+  background: white;
+  padding: 10px;
+  border-radius: 10px;
+  width: 500px;
+  height: 300px;
+}
+
+input{
+    padding: 8px;
+    margin-right: 15px;
+      width: 150px;
+}
+
+button {
+   padding: 8px 12px;
+    cursor: pointer;
+}
+
+.weather-card {
+      margin-top: -6px;
+}
+
+.error {
+  color: red;
+  margin-top: 10px;
+}
