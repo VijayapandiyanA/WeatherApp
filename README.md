@@ -1,1 +1,1 @@
-WEBAPP URL LINK:https://netflix-clone-lovat-ten-35.vercel.app/
+WEBAPP URL LINK:https://weather-app-47ud.vercel.app/
