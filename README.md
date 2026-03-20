@@ -1,1 +1,1 @@
-WEBAPP URL LINK:https://weatherapp0n3.netlify.app/
+WEBAPP URL LINK:https://netflix-clone-lovat-ten-35.vercel.app/
